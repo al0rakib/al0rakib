@@ -1,6 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on a smart AI camera app that helps users take perfect photos by understanding device specs, lighting, and personal style.<br><br>🤝 I’m looking to collaborate on creative tech ideas that blend AI with real-world impact — especially in education, mental health.<br><br>🌱 I’m currently learning full-stack development and practical AI implementation (especially in computer vision).<br><br>💬 Ask me about how to turn ideas into startups even if you’re just starting from scratch.<br><br>
-
+🛠 I’m currently working on a smart AI camera app that helps users take perfect photos by understanding device specs, lighting, and personal style.<br><br>🤝 I’m looking to collaborate on creative tech ideas that blend AI with real-world impact — especially in education, mental health.<br><br>🌱 I’m currently learning full-stack development and practical AI implementation (especially in computer vision).
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedrakib.1078@gmail.com) 
